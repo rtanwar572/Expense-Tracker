@@ -81,10 +81,10 @@ src/
 ## 📈 Example Output
 
 Enter year and month (yyyy mm): 2025 05
---- Summary for 2025-05 ---
-Total Income: 70000.0
-Total Expense: 13500.0
-Net Balance: 56500.0
+--- Summary for 2025-05
+- Total Income: 70000.0
+- Total Expense: 13500.0
+- Net Balance: 56500.0
 
 ---
 
@@ -106,7 +106,7 @@ Net Balance: 56500.0
 
 ## 🧑‍💻 Author
  - Rohit Tanwar 💛
- 
+
 
 Made with 💛 using Java
 
